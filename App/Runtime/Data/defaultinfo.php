@@ -1,0 +1,1 @@
+<?php	return array ( 'name' => '商帅商学院', 'description' => '商帅商学院关系管理系统', 'state' => '北京市', 'city' => '市辖区', 'allow_file_type' => 'pdf,doc,jpg,png,gif,txt,doc,xls,zip,docx', 'contract_alert_time' => 30, 'task_model' => '2', 'logo' => './Uploads/201903/06/5c7f259d40983.png', );?>
